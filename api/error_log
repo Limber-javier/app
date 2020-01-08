@@ -1,0 +1,63 @@
+[21-Dec-2019 19:52:58 America/New_York] PHP Fatal error:  Call to undefined method Prueba::fetch_object() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[21-Dec-2019 19:54:02 America/New_York] PHP Fatal error:  Call to undefined method Prueba::fetch_object() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[21-Dec-2019 19:58:45 America/New_York] PHP Catchable fatal error:  Object of class Prueba could not be converted to string in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 15
+[21-Dec-2019 20:00:05 America/New_York] PHP Catchable fatal error:  Object of class Prueba could not be converted to string in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 15
+[21-Dec-2019 20:00:21 America/New_York] PHP Fatal error:  Call to undefined method Prueba::fetch_object() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[21-Dec-2019 20:01:01 America/New_York] PHP Fatal error:  Call to undefined method Prueba::fetch_object() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[21-Dec-2019 20:01:02 America/New_York] PHP Fatal error:  Call to undefined method Prueba::fetch_object() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[21-Dec-2019 20:01:03 America/New_York] PHP Fatal error:  Call to undefined method Prueba::fetch_object() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[21-Dec-2019 20:06:09 America/New_York] PHP Fatal error:  Cannot use object of type Prueba as array in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 14
+[21-Dec-2019 20:06:14 America/New_York] PHP Fatal error:  Cannot use object of type Prueba as array in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 14
+[22-Dec-2019 17:59:48 America/New_York] PHP Notice:  Undefined variable: fetch in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 10
+[22-Dec-2019 18:06:47 America/New_York] PHP Notice:  Undefined property: mysqli_result::$fetch in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:06:47 America/New_York] PHP Fatal error:  Call to a member function count() on null in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:06:48 America/New_York] PHP Notice:  Undefined property: mysqli_result::$fetch in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:06:48 America/New_York] PHP Fatal error:  Call to a member function count() on null in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:06:49 America/New_York] PHP Notice:  Undefined property: mysqli_result::$fetch in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:06:49 America/New_York] PHP Fatal error:  Call to a member function count() on null in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:07:10 America/New_York] PHP Fatal error:  Call to undefined method mysqli_result::fetch_count() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:36:55 America/New_York] PHP Fatal error:  Call to undefined method mysqli_result::fetch_count() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:36:55 America/New_York] PHP Fatal error:  Call to undefined method mysqli_result::fetch_count() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[22-Dec-2019 18:36:56 America/New_York] PHP Fatal error:  Call to undefined method mysqli_result::fetch_count() in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 9
+[23-Dec-2019 15:24:11 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[23-Dec-2019 15:24:11 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[23-Dec-2019 15:24:11 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[30-Dec-2019 00:47:18 America/New_York] PHP Notice:  Undefined index: op in /home/mchejutv/fuerzadragon.com/fdragon/api/publicacion.php on line 5
+[30-Dec-2019 00:58:22 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/mchejutv/fuerzadragon.com/fdragon/config/conexion.php on line 29
+[30-Dec-2019 00:58:26 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/mchejutv/fuerzadragon.com/fdragon/config/conexion.php on line 29
+[30-Dec-2019 00:58:27 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/mchejutv/fuerzadragon.com/fdragon/config/conexion.php on line 29
+[30-Dec-2019 00:58:40 America/New_York] PHP Notice:  Undefined index: op in /home/mchejutv/fuerzadragon.com/fdragon/api/publicacion.php on line 5
+[30-Dec-2019 00:58:46 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/mchejutv/fuerzadragon.com/fdragon/config/conexion.php on line 29
+[03-Jan-2020 01:36:20 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[03-Jan-2020 01:36:20 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[03-Jan-2020 01:36:20 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[03-Jan-2020 04:26:52 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[03-Jan-2020 04:26:52 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[03-Jan-2020 04:26:52 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[05-Jan-2020 00:05:31 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 00:05:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 03:59:45 America/New_York] PHP Notice:  Undefined index: op in /home/mchejutv/fuerzadragon.com/fdragon/api/empresa.php on line 5
+[05-Jan-2020 06:50:34 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 06:50:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 06:51:02 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 06:51:02 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 06:51:50 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 06:51:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 09:26:31 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 09:26:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 09:31:03 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[05-Jan-2020 09:31:03 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[05-Jan-2020 09:31:03 America/New_York] PHP Notice:  Undefined property: stdClass::$apellidos in /home/mchejutv/fuerzadragon.com/fdragon/api/peticion.php on line 13
+[05-Jan-2020 09:32:15 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 09:32:15 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 16:00:25 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 16:00:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 19:03:11 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 19:03:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 20:24:43 America/New_York] PHP Notice:  Undefined index: op in /home/mchejutv/fuerzadragon.com/fdragon/api/publicacion.php on line 5
+[05-Jan-2020 20:25:43 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 20:25:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 20:27:29 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 20:27:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 20:34:43 America/New_York] PHP Notice:  Undefined variable: reg in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
+[05-Jan-2020 20:34:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/mchejutv/fuerzadragon.com/fdragon/api/municipio.php on line 51
